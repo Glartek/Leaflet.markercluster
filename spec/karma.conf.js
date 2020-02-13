@@ -1,4 +1,4 @@
-var json = require('rollup-plugin-json');
+var json = require('@rollup/plugin-json');
 
 // Karma configuration
 module.exports = function (config) {

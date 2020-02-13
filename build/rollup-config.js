@@ -2,7 +2,7 @@
 // Config file for running Rollup in "normal" mode (non-watch)
 
 import rollupGitVersion from 'rollup-plugin-git-version'
-import json from 'rollup-plugin-json'
+import json from '@rollup/plugin-json'
 
 import gitRev from 'git-rev-sync'
 
