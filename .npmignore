@@ -5,5 +5,3 @@ obj
 # mstest test results
 TestResults
 node_modules
-dist/*.js
-dist/*.js.map

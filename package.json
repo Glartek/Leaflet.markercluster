@@ -1,12 +1,15 @@
 {
   "name": "@glartek/leaflet.markercluster",
-  "repository": "https://github.com/Glartek/Leaflet.markercluster",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glartek/Leaflet.markercluster.git"
+  },
   "version": "1.4.2",
   "description": "Provides Beautiful Animated Marker Clustering functionality for Leaflet",
   "devDependencies": {
     "git-rev-sync": "^1.8.0",
     "happen": "^0.3.2",
-    "jake": "8.0.19",
+    "jake": "10.4.5",
     "jshint": "^2.9.4",
     "karma": "^4.4.1",
     "karma-chrome-launcher": "^2.0.0",
@@ -43,5 +46,16 @@
     "map",
     "cluster"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Glartek/Leaflet.markercluster/issues"
+  },
+  "homepage": "https://github.com/Glartek/Leaflet.markercluster#readme",
+  "dependencies": {
+    "fsevents": "^1.2.11"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "author": ""
 }
