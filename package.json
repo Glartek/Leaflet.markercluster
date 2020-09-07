@@ -10,7 +10,7 @@
     "@rollup/plugin-json": "4.0.2",
     "git-rev-sync": "^1.8.0",
     "happen": "^0.3.2",
-    "jake": "10.4.5",
+    "jake": "10.8.2",
     "jshint": "^2.9.4",
     "karma": "^4.4.1",
     "karma-chrome-launcher": "^2.0.0",
