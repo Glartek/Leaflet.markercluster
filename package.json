@@ -8,7 +8,7 @@
   "description": "Provides Beautiful Animated Marker Clustering functionality for Leaflet",
   "devDependencies": {
     "@rollup/plugin-json": "4.0.2",
-    "git-rev-sync": "^1.8.0",
+    "git-rev-sync": "^3.0.1",
     "happen": "^0.3.2",
     "jake": "10.4.5",
     "jshint": "^2.9.4",
